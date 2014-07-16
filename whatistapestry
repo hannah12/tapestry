@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>TAPESTRY of Possibilities: Diversity at Cornell</title>
+    <link type="text/css" rel="stylesheet" href="/Users/HannahRudin/Documents/Tapestry/tapestry.css">
+    <link href='http://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+    <link href='//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' rel='stylesheet'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+</head>
+    
+<body>
+    <div class="header">
+        <h2>What is Tapestry?</h2>
+    </div>
+    
+    <div class="nav">
+        <ul>
+            <li><a href="tapestry.html">Home</a></li>
+            <li><a href="whatistapestry.html">What is Tapestry?</a></li>
+            <li><a href="meetthetroupe.html">Meet the Troupe</a></li>
+            <li><a href="#">Get Involved</a></li>
+        </ul>
+    </div>
+    
+    <div class="sidebar">
+        <ul>
+            <li><a href="#">Testomonials</a></li>
+            <li><a href="#">Photo Gallery</a></li>
+        </ul>
+    </div>
+    
+    <div id="info">
+        <p><em>Tapestry</em> is a theatrical presentation followed by an interactive, moderated discussion. The goal is to support a diverse community in which all members feel welcomed, respected, and honored. Though a graduation requirement for all Cornell freshmen and transfer students, it is an intense, interesting and memorable experience. Just check out our <a href="#">testomonials</a>! All Tapestry performances take place during Orientation week (see the <a href="tapestry.html">home</a> page for this year's schedule) but find <a href="https://www.facebook.com/pages/Ordinary-People/152931836913">Ordinary People</a> on Facebook to see more shows by Cornell's social justice and peer education theater troupe! </p>
+        
+        <h3>Things to Keep in Mind</h3>
+        <ol>
+            <li><strong>Ordinary People troupe and members do not necessarily hold the same views as the characters we represent on stage.</strong> However, we ask that during the show and discussion you try to stretch outside your comfort zone and open yourself to different opinions and perspectives.</li>
+            <li><strong>We welcome all points of view.</strong> During the show, keep in mind what you like and don't like, and what you want to know more about or discuss. WE WANT TO HEAR FROM YOU, so please participate in our moderated discussion at the end, or send us a message on Facebook.</li>
+            <li><strong>The dialogue doesn't stop here.</strong> Keep having these discussions with your friends and peers! See the <a href="#">Get Involved</a> page to learn about other student groups and activities that actively promote diversity on campus. Change begins with dialogue.</li>
+        </ol>
+    </div>
+</body>
+</html>
